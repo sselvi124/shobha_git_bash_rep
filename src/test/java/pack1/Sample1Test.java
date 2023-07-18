@@ -7,6 +7,7 @@ public class Sample1Test {
 public void A1() {
 
 	//pull back
+	//push back
 	System.out.println("A1 in sample1Test");
 }
 }
